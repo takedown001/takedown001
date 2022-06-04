@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/takedown/">
   <img align="left" alt="Takedown's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/users/Takedown#2483">
   <img align="left" alt="Takedown's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
