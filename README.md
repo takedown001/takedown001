@@ -1,11 +1,13 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/takedown/">
+<a href="https://www.instagram.com/takedown001/">
   <img align="left" alt="Takedown's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/users/Takedown#2483">
   <img align="left" alt="Takedown's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-
+<a href="https://play.google.com/store/apps/dev?id=5695885246645403183">
+  <img align="left" alt="PlayConsole Account" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgoogle-play-console_720302&psig=AOvVaw0EcF-BcLN0hcMMsk96U7FM&ust=1672841866284000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjMhPTMq_wCFQAAAAAdAAAAABAE" />
+</a>
 
 <br />
 
