@@ -6,7 +6,7 @@
   <img align="left" alt="Takedown's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://play.google.com/store/apps/dev?id=5695885246645403183">
-  <img align="left" alt="PlayConsole Account" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgoogle-play-console_720302&psig=AOvVaw0EcF-BcLN0hcMMsk96U7FM&ust=1672841866284000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjMhPTMq_wCFQAAAAAdAAAAABAE" />
+  <img align="left" alt="PlayConsole" width="22px" src="https://github.com/takedown001/takedown001/blob/main/720302.png" />
 </a>
 
 <br />
