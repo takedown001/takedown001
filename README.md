@@ -1,62 +1,54 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <img align="left" alt="Takedown's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/users/Takedown#2483">
-  <img align="left" alt="Takedown's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://play.google.com/store/apps/dev?id=5695885246645403183">
-  <img align="left" alt="PlayConsole" width="22px" src="https://github.com/takedown001/takedown001/blob/main/720302.png" />
-</a>
+About Me
 
-<br />
+Hello! I'm Takedown, a passionate self-taught full-stack Android developer and freelance software engineer from India. My journey in software development is driven by the excitement of transforming ideas into reality through elegant and efficient interfaces. I place significant emphasis on user experience, system architecture, and code quality in every project I undertake.
 
-Hi, i'm Just a passionate self-taught full stack Android developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Technical Proficiency
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Over the years, I've become proficient in a diverse set of programming languages and technologies, including:
 
+Android Development: Java
 
-  <img align="right" alt="GIF" src="https://github.com/takedown001/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:ppro8055@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+Backend Development: PHP
 
-**languages and tools:**  
+Database Management: MySQL
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Web Development: HTML
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://pmny.in/2rwABmZMha6X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+Programming Languages: Python, C++, C
 
 
-📈 my github stats
+This diverse skill set enables me to approach problems holistically and develop comprehensive solutions.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=takedown001&show_icons=true&theme=gotham" alt="takedown001" />
+Open-Source Contributions
+
+I'm an avid open-source enthusiast and maintainer. The collaborative spirit and knowledge-sharing inherent in the open-source community have been instrumental in my growth as a developer. I actively contribute to projects and maintain several repositories that reflect my commitment to this community.
+
+Notable Projects
+
+Here are some of the projects I've worked on:
+
+DeadEye Root Apk 1.5.0: Repository Link
+
+CrossRadar ESP for Public: Repository Link
+
+SMSCapture: A simple application illustrating how to capture SMS without user interaction and send it to a server. Repository Link
+
+ExcelToPDF: An application developed in Java with a PHP backend using SQL Database. It uploads .xlsx/.xls/.csv files to the server and inserts all data into the SQL database. Repository Link
+
+TrivagoClone: A demo application showcasing the use of WebView to clone a website on an Android app for exploration without a browser. Repository Link
 
 
+Why Sponsor Me?
+
+Your sponsorship will empower me to:
+
+Dedicate more time to developing and maintaining open-source projects that benefit the community.
+
+Invest in resources and tools that enhance the quality and efficiency of my work.
+
+Share knowledge through tutorials, documentation, and mentorship to support aspiring developers.
 
 
+Let's Connect
+
+I'm always open to collaborations, freelance opportunities, and discussions about innovative projects. Feel free to reach out via email
